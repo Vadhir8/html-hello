@@ -1,0 +1,21 @@
+.post {
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    padding: 15px;
+}
